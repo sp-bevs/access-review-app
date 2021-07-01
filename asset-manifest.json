@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/access-review-app/static/css/main.d8083650.chunk.css",
+    "main.js": "/access-review-app/static/js/main.8b01a485.chunk.js",
+    "main.js.map": "/access-review-app/static/js/main.8b01a485.chunk.js.map",
+    "runtime-main.js": "/access-review-app/static/js/runtime-main.0ae9c00d.js",
+    "runtime-main.js.map": "/access-review-app/static/js/runtime-main.0ae9c00d.js.map",
+    "static/js/2.9bbb57ef.chunk.js": "/access-review-app/static/js/2.9bbb57ef.chunk.js",
+    "static/js/2.9bbb57ef.chunk.js.map": "/access-review-app/static/js/2.9bbb57ef.chunk.js.map",
+    "static/js/3.7c8742eb.chunk.js": "/access-review-app/static/js/3.7c8742eb.chunk.js",
+    "static/js/3.7c8742eb.chunk.js.map": "/access-review-app/static/js/3.7c8742eb.chunk.js.map",
+    "index.html": "/access-review-app/index.html",
+    "static/css/main.d8083650.chunk.css.map": "/access-review-app/static/css/main.d8083650.chunk.css.map",
+    "static/js/2.9bbb57ef.chunk.js.LICENSE.txt": "/access-review-app/static/js/2.9bbb57ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ae9c00d.js",
+    "static/js/2.9bbb57ef.chunk.js",
+    "static/css/main.d8083650.chunk.css",
+    "static/js/main.8b01a485.chunk.js"
+  ]
+}
